@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ClinGen AI](https://img.shields.io/badge/GENOVA%20AI-VARIANT%20EFFECT%20PREDICTOR-800080?style=for-the-badge) 
+![ClinGen AI](https://img.shields.io/badge/ClinGen%20AI-VARIANT%20EFFECT%20PREDICTOR-800080?style=for-the-badge) 
 ![FastAPI](https://img.shields.io/badge/FASTAPI-BACKEND-00CC00?style=for-the-badge) 
 ![Next.js](https://img.shields.io/badge/NEXT.JS-FRONTEND-000000?style=for-the-badge) 
 ![Modal](https://img.shields.io/badge/MODAL-GPU%20CLOUD-007FFF?style=for-the-badge) 
