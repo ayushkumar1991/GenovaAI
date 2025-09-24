@@ -1,4 +1,4 @@
-# 🧬 Genova AI: Variant Effect Predictor with Evo2
+# 🧬 ClinGen-AI: Variant Effect Predictor with Evo2
 
 <div align="center">
 
